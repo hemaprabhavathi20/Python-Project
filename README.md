@@ -20,3 +20,5 @@ The datasets were merged using `pd.merge` on the `order_id` field.
    - `delivery_time`: Calculated as the difference between `ship_date` and `order_date`.
    - `year`: Extracted from `order_date`.
    - `weektype`: Derived from `order_date`, indicating whether the day is a weekday or weekend.
+
+## [Insights and Recommendation:](https://github.com/hemaprabhavathi20/Python-Project/blob/2dfc90b3a382900834f84aa7885a8ecdb1f97602/Insights%20and%20recommendation.pdf)
