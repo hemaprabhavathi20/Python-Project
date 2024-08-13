@@ -21,4 +21,5 @@ The datasets were merged using `pd.merge` on the `order_id` field.
    - `year`: Extracted from `order_date`.
    - `weektype`: Derived from `order_date`, indicating whether the day is a weekday or weekend.
 
-## [Insights and Recommendation:](https://github.com/hemaprabhavathi20/Python-Project/blob/2dfc90b3a382900834f84aa7885a8ecdb1f97602/Insights%20and%20recommendation.pdf)
+## Insights and Recommendation:
+ For a detailed exploration of the insights from our analysis, please refer this. [Insights and Recommendation](https://github.com/hemaprabhavathi20/Python-Project/blob/2dfc90b3a382900834f84aa7885a8ecdb1f97602/Insights%20and%20recommendation.pdf)
