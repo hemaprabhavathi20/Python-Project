@@ -1,6 +1,6 @@
-# Global Retail Corp Sales Data Analysis
+# Prime Mart Sales Data Analysis
 
-Global Retail Corp, a large international retail company, has been experiencing fluctuations in sales and profitability across its diverse product range and regions. To address these challenges, the company aims to optimize its product offerings, improve customer satisfaction, and enhance operational efficiency. A comprehensive analysis of the sales data is required to identify patterns, trends, and opportunities for growth.
+Prime Mart, a large international retail company has been experiencing fluctuations in sales and profitability across its diverse product range and regions. To address these challenges, the company aims to optimize its product offerings, improve customer satisfaction, and enhance operational efficiency. A comprehensive analysis of the sales data is required to identify patterns, trends, and opportunities for growth.
 
 ## Dataset Overview
 
